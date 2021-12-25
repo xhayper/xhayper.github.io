@@ -19,7 +19,7 @@ By upgrading [NW.js](https://nwjs.io/), you also upgrade [NodeJS](https://nodejs
 - [NW.js](https://nwjs.io/)
 
 ### Versions (when the guide was written)
-- NW.js: 0.59.1
+- NW.js: [0.59.1](https://nwjs.io/blog/v0.29.4/)
 
 ### Instructions
 
