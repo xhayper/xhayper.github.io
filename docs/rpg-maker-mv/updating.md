@@ -1,10 +1,6 @@
 # Updating
 This section will guide you to upgrade RPG Maker MV's component.
 
-::: warning
-Make sure to backup! If you messed up, you have to reinstall RPG Maker MV.
-:::
-
 ## NW.js
 
 NW.js allow you to use [NodeJS](https://nodejs.org/en/) module inside [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction), It's used by RPG Maker MV to... well... run the game...
@@ -12,6 +8,10 @@ NW.js allow you to use [NodeJS](https://nodejs.org/en/) module inside [DOM](http
 RPG Maker MV came with [`NW.js 0.29.4`](https://nwjs.io/blog/v0.29.4/) and [`Node 9.11.1`](https://nodejs.org/en/blog/release/v9.11.1/)
 
 By upgrading [NW.js](https://nwjs.io/), you also upgrade [NodeJS](https://nodejs.org/en/)
+
+::: warning
+Make sure to backup! If you messed up, you have to reinstall RPG Maker MV.
+:::
 
 ### Resources
 
