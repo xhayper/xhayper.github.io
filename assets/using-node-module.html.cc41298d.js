@@ -1,1 +1,0 @@
-const e={key:"v-41914e2b",path:"/rpg-maker-mv/using-node-module.html",title:"Using Node Module",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640426737e3,contributors:[{name:"xhayper",email:"hayper1919@gmail.com",commits:1}]},filePathRelative:"rpg-maker-mv/using-node-module.md"};export{e as data};
