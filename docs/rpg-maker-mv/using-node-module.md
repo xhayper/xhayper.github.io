@@ -13,7 +13,7 @@ RPG Maker MV came with [NodeJS 9.11.1](https://nodejs.org/en/blog/release/v9.11.
 
 To upgrade Node version, You have to upgrade NW.js, Guide could be found [here](/rpg-maker-mv/updating)
 :::
-2. Navigate to your project root folder (where it contains `package.json`).
+2. Navigate to your project root folder (where it contains `package.json` and `Game.rpgproject`).
 3. Open terminal and run
 ```bash:no-line-numbers
 npm install <PACKAGE NAME>
