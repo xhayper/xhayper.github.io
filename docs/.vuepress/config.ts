@@ -45,7 +45,8 @@ export default defineUserConfig<DefaultThemeOptions>({
                     text: 'RPG Maker MV',
                     children: [
                         '/rpg-maker-mv/README.md',
-                        '/rpg-maker-mv/updating.md'
+                        '/rpg-maker-mv/updating.md',
+                        '/rpg-maker-mv/using-node-module.md'
                     ],
                 },
             ]

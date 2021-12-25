@@ -1,5 +1,5 @@
 # Updating
-This section will guide you to upgrade RPG Maker MV's component.
+This section will teach you how to upgrade RPG Maker MV's component.
 
 ## NW.js
 
