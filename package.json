@@ -13,8 +13,7 @@
   "homepage": "https://xhayper.github.io/",
   "scripts": {
     "docs:build": "vuepress build docs --clean-cache",
-    "docs:dev": "vuepress dev docs --clean-cache",
-    "lint": "eslint --ext .js,.ts,.vue ."
+    "docs:dev": "vuepress dev docs --clean-cache"
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^2.0.0-beta.29",
