@@ -55,7 +55,7 @@ Make sure to backup! If you messed up, you have to reinstall RPG Maker MV.
 RPG Maker MV came with [Pixi 4.5.4](https://github.com/pixijs/pixijs/releases/tag/v4.5.4)
 
 ::: tip
-Here's the [pre-made](/files/rpg-maker-mv/pixi-6.2.1.zip) one (Only script, Pixi 6.2.1), if you don't want to go through the trouble.
+If you don't want to go through the trouble, here's the [pre-made](/files/rpg-maker-mv/pixi-6.2.1.zip) one (Only script, Pixi 6.2.1).
 :::
 
 ::: warning
