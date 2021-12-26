@@ -38,6 +38,9 @@ Make sure to backup! If you messed up, you have to reinstall RPG Maker MV.
 3. Drag everything inside the downloaded zip into the `nwjs-win` folder.
 4. Rename from `nw.exe` to `Game.exe`.
 
+##### Video
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UGUQgmtjJ-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Linux
 
 - Please see [this guide](https://forums.rpgmakerweb.com/index.php?threads/how-to-update-nw-js-to-dramatically-improve-game-performance.131620), I don't know how to do it, I am really sorry.
