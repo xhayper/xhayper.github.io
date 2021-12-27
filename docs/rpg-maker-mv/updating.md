@@ -1,6 +1,10 @@
 # Updating
 This section will teach you how to upgrade RPG Maker MV's component.
 
+::: warning
+Upgrading component can make some function un-usable and unstable, Proceed with caution
+:::
+
 ## NW.js
 
 NW.js allow you to use [NodeJS](https://nodejs.org/en/) module inside [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction), It's used by RPG Maker MV to... well... run the game...
