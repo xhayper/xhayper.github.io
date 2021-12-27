@@ -78,7 +78,7 @@ It can also break complatibility with some plugins, but that rarely happened (fr
 - Pixi: [6.2.1](https://github.com/pixijs/pixijs/releases/tag/v6.2.1)
 
 ### Instructions
-1. [Upgrade NW.js](#NW.js)
+1. [Upgrade NW.js](#nw-js)
 2. Follow [FeniXEngine MV's PIXI 4.5.4 to PIXI 5.3.0 upgrade guide](https://fenixenginemv.gitlab.io/guides/pixi5-upgrade.html).
 3. Download Pixi from [Github](https://github.com/pixijs/pixijs/releases/tag/v6.2.1) and replace the old one (located inside `root/js/lib`).
 4. Download Pixi Tilemap from [Github](https://github.com/pixijs/tilemap/releases/tag/v3.2.1) (Download source, and it's located in `dist` folder) and replace the old one (located inside `root/js/lib/`).
