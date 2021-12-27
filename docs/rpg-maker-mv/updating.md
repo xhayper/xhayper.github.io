@@ -78,11 +78,12 @@ It can also break complatibility with some plugins, but that rarely happened (fr
 - Pixi: [6.2.1](https://github.com/pixijs/pixijs/releases/tag/v6.2.1)
 
 ### Instructions
-1. Follow [FeniXEngine MV's PIXI 4.5.4 to PIXI 5.3.0 upgrade guide](https://fenixenginemv.gitlab.io/guides/pixi5-upgrade.html).
-2. Download Pixi from [Github](https://github.com/pixijs/pixijs/releases/tag/v6.2.1) and replace the old one (located inside `root/js/lib`).
-2. Download Pixi Tilemap from [Github](https://github.com/pixijs/tilemap/releases/tag/v3.2.1) (Download source, and it's located in `dist` folder) and replace the old one (located inside `root/js/lib/`).
-3. The latest version of Pixi Tilemap doesn't include the function that RPG Maker MV use so we have to download the [rpgmaker.js](https://github.com/pixijs/tilemap/tree/e7d26dde5b47a9ea941c50e62ad151acfc7ca57b/demo/rpgmaker.js) from the demo folder and put it in `root/js/lib/`.
-4. Open up `index.html` in your project root and
+1. [Upgrade NW.js](#NW.js)
+2. Follow [FeniXEngine MV's PIXI 4.5.4 to PIXI 5.3.0 upgrade guide](https://fenixenginemv.gitlab.io/guides/pixi5-upgrade.html).
+3. Download Pixi from [Github](https://github.com/pixijs/pixijs/releases/tag/v6.2.1) and replace the old one (located inside `root/js/lib`).
+4. Download Pixi Tilemap from [Github](https://github.com/pixijs/tilemap/releases/tag/v3.2.1) (Download source, and it's located in `dist` folder) and replace the old one (located inside `root/js/lib/`).
+5. The latest version of Pixi Tilemap doesn't include the function that RPG Maker MV use so we have to download the [rpgmaker.js](https://github.com/pixijs/tilemap/tree/e7d26dde5b47a9ea941c50e62ad151acfc7ca57b/demo/rpgmaker.js) from the demo folder and put it in `root/js/lib/`.
+6. Open up `index.html` in your project root and
 ```html:no-line-numbers
 <!-- Replace from -->
 <script type="text/javascript" src="js/libs/pixi-tilemap.js"></script>
