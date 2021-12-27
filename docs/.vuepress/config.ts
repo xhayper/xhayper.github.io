@@ -37,8 +37,8 @@ export default defineUserConfig<DefaultThemeOptions>({
                     text: 'Guide',
                     children: [
                         '/guide/README.md'
-                    ],
-                },
+                    ]
+                }
             ],
             '/rpg-maker-mv': [
                 {
@@ -46,9 +46,10 @@ export default defineUserConfig<DefaultThemeOptions>({
                     children: [
                         '/rpg-maker-mv/README.md',
                         '/rpg-maker-mv/updating.md',
-                        '/rpg-maker-mv/using-node-module.md'
-                    ],
-                },
+                        '/rpg-maker-mv/using-node-module.md',
+                        '/rpg-maker-mv/scripts.md'
+                    ]
+                }
             ]
         }
     },
